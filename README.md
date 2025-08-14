@@ -19,10 +19,9 @@ chmod +x checkip.sh
 
 **How to use (Python 2):**
 
-```bash
 python2 ddos.py
 
-
+```
 ⚠️VITAL RECORDS
 
  Use this script responsibly and ensure the target is
